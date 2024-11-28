@@ -101,7 +101,7 @@ ReactDOM.render(
         />
         <Container
           Name="pattern2"
-          ProductName="Graphic Pattern Notebook"
+          ProductName="TTTTTTTTT"
           Price="Rs.1,200"
           image="https://cdn.dribbble.com/users/1224972/screenshots/10283629/media/6752b7d8d8de567477b20f79af99788f.jpg?compress=1&resize=400x300"
         />
@@ -115,20 +115,20 @@ ReactDOM.render(
   <div className="row outerCont out_newArrivalCont">
   <div _ngcontent-mav-c113="" class="separator">
         <div _ngcontent-mav-c113="" class="separator__line"></div>
-        <h1>New Arrivals</h1>
+        <h1>TTTTTTTTTs</h1>
         <div _ngcontent-mav-c113="" class="separator__line"></div>
       </div>
 
       <div className="row newArrivalCont">
         <Container
           Name="colorpencil"
-          ProductName="Water Color Pencils"
+          ProductName="TTTTTTTTT"
           Price="Rs.190.00"
           image="https://almanar.bh/wp-content/uploads/2021/03/STAEDTLER-36-WATER-COLOUR-PENCILS-144-10ND36.jpg"
         />
         <Container
           Name="bags"
-          ProductName="Pink-Blue Bags"
+          ProductName="TTTTTTTTT"
           Price="Rs.4,600"
           image="https://imgmedia.lbb.in/68914897_611722356022822_1123698780344358669_n_1574663603252.jpg"
         />
