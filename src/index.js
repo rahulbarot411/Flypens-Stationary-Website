@@ -45,31 +45,31 @@ ReactDOM.render(
       <div className="row journalCont">
         <Container
           Name="rainbow"
-          ProductName="Rainbow Notebook Set"
+          ProductName="RAHUL BAROT"
           Price="Rs.190.00"
           image="https://cdn.shopify.com/s/files/1/2531/5420/products/WhatsAppImage2022-04-21at4.31.30PM_1_3ee44088-c89f-44a0-8b3c-d7449d8aa23b_1200x.jpg?v=1659782647"
         />
         <Container
           Name="zebra"
-          ProductName="Zebra Printed Notebook"
+          ProductName="RAHUL BAROT"
           Price="Rs.210.00"
           image="https://lifestylebymo.com/wp-content/uploads/2017/12/d5c6f05ffc468a8e1f1606f56424a93c-notebook-cover-design-notebook-ideas-cover794892374.jpg"
         />
         <Container
           Name="DIY"
-          ProductName="DIY Customized Notebook"
+          ProductName="RAHUL BAROT"
           Price="Rs.1,350"
           image="https://data.whicdn.com/images/292718679/original.jpg"
         />
         <Container
           Name="vector"
-          ProductName="Vector Designed Notebook"
+          ProductName="RAHUL BAROT"
           Price="Rs.1,400"
           image="https://images.all-free-download.com/images/graphiclarge/notebook_cover_background_classical_flat_design_plants_decor_6848091.jpg"
         />
         <Container
           Name="pattern"
-          ProductName="Blue Pattern Printed Notebook"
+          ProductName="RAHUL BAROT"
           Price="Rs.1,100"
           image="https://cdn.dribbble.com/users/914439/screenshots/13571336/media/e64112834a3ad405cd3f881ec998ddd2.jpg?compress=1&resize=400x300"
         />
